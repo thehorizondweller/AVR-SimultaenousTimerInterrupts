@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\Release\Assignment 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assignment 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assignment 1.map</FILE>
+  <FILE>Assignment 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</FILE><LINE>20</LINE></MAIN>
+  <T1_OV_ISR><FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</FILE><LINE>66</LINE></T1_OV_ISR>
+  <T1_OC_ISR><FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</FILE><LINE>97</LINE></T1_OC_ISR>
+  <T0_OV_ISR><FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</FILE><LINE>55</LINE></T0_OV_ISR>
+  <HERE><FILE>C:\Users\Kshitij Anand\Desktop\Subs\FECS\Module 2\Assignment 1\Assignment 1\main.asm</FILE><LINE>48</LINE></HERE>
+ </LABELS>
+</ASSEMBLER_INFO>
